@@ -1,1 +1,4 @@
 new branch created (new-features)
+switch to master branch to merge
+git branch -d "new features" to delete branch
+commit only after adding stuff to the file
